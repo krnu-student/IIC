@@ -1,0 +1,196 @@
+[ {
+  "@id" : "_:genid1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Є_перешкода_з_правого_боку"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_пріоритету"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid10",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Встрічний_автомобіль"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#МІй_атомобіль"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid13",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Встрічний_автомобіль"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Спецтранспорт_з_увімкненими_проблисковими_маячками"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid16",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_зелений_сигнал_світлофору"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_червоний_сигнал_світлофору"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid19",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_пріоритету"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_уступи_дорогу"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid22",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_пріоритету"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Немає_перекоди_з_правого_боку"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid25",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_уступи_дорогу"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Немає_перекоди_з_правого_боку"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid28",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#МІй_атомобіль"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Спецтранспорт_з_увімкненими_проблисковими_маячками"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid4",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Є_перешкода_з_правого_боку"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_уступи_дорогу"
+    } ]
+  } ]
+}, {
+  "@id" : "_:genid7",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AllDifferent" ],
+  "http://www.w3.org/2002/07/owl#distinctMembers" : [ {
+    "@list" : [ {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Є_перешкода_з_правого_боку"
+    }, {
+      "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Немає_перекоди_з_правого_боку"
+    } ]
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Є_перешкода_з_правого_боку",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Нерегульовані" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Встрічний_автомобіль",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Перехрестя" ],
+  "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Надаю_перевагу_у_русі" : [ {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Є_перешкода_з_правого_боку"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_червоний_сигнал_світлофору"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_уступи_дорогу"
+  } ],
+  "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Проїжджаю_перехрестя" : [ {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_зелений_сигнал_світлофору"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_пріоритету"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Немає_перекоди_з_правого_боку"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_зелений_сигнал_світлофору",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Регульовані" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_червоний_сигнал_світлофору",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Регульовані" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_пріоритету",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Нерегульовані" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_уступи_дорогу",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Нерегульовані" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#МІй_атомобіль",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Перехрестя" ],
+  "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Надаю_перевагу_у_русі" : [ {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Є_перешкода_з_правого_боку"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_червоний_сигнал_світлофору"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_уступи_дорогу"
+  } ],
+  "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Проїжджаю_перехрестя" : [ {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_зелений_сигнал_світлофору"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_пріоритету"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Немає_перекоди_з_правого_боку"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Надаю_перевагу_у_русі",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Немає_перекоди_з_правого_боку",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Нерегульовані" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Нерегульовані",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Перехрестя"
+  } ],
+  "http://www.w3.org/2002/07/owl#disjointWith" : [ {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Регульовані"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Перехрестя",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Проїжджаю_перехрестя",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty", "http://www.w3.org/2002/07/owl#FunctionalProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Регульовані",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Перехрестя"
+  } ]
+}, {
+  "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Спецтранспорт_з_увімкненими_проблисковими_маячками",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Перехрестя" ],
+  "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Проїжджаю_перехрестя" : [ {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Є_перешкода_з_правого_боку"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_зелений_сигнал_світлофору"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Горить_червоний_сигнал_світлофору"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_пріоритету"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Знак_уступи_дорогу"
+  }, {
+    "@id" : "http://www.semanticweb.org/lozov/ontologies/2022/9/untitled-ontology-4#Немає_перекоди_з_правого_боку"
+  } ]
+} ]
